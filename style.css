@@ -9,19 +9,27 @@
 #title {
     background: yellow;
     /*add CSS here*/
-    
+    margin: 0 45px;
+    padding: 10px 30px;
 }
 
 #subtitle {
     background: black;
     color: white;
     /*add CSS here*/
-    
+    padding: 0 50px;
+    margin: 20px 45px;
+    margin-bottom: 90px;
 }
 
 .topic {
     background: lightgray;
     /*add CSS here*/
-    
+    display: inline;
+    margin-left: 46px;
+    margin-right: 60px;
 }
 
+body {
+    padding: 30px;
+}
